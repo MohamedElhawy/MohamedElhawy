@@ -1,6 +1,7 @@
 
 <!-- this is the cover image -->
 ![cover image for pxafish.com](pxafish.png)
+
 #  :blowfish:  HI👋🏻 THIS IS WEBMASTER OF **PXAFISH.COM**  :blowfish:
 
 #### You can visit the website here [pxafish.com](https://pxafish.com/)
@@ -14,3 +15,6 @@
       - [ ] virtual reality and metaverse
 4. Engines
       - [ ] power all the above
+
+> [!WARNING]
+> The project is under-development, I don't take participants :octopus:
