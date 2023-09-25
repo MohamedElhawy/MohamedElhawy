@@ -1,12 +1,12 @@
 
 <!-- this is the cover image -->
-![cover image for pxafish.com](pxafish.png)
+![cover image for farmeroad.com](farmer.png)
 
-#  :blowfish:  HI👋🏻 THIS IS WEBMASTER OF **PXAFISH.COM**  :blowfish:
+#  🧑🏻‍🌾  HI👋🏻 THIS IS WEBMASTER OF **FARMEROAD.COM**  🧑🏻‍🌾
 
-#### You can visit the website here [pxafish.com](https://pxafish.com/)
+#### You can visit the website here [farmeroad.com](https://farmeroad.com/)
 
-## :whale: Purpose of pxafish.com is to pioneer the future of graphics on web, using:
+## :whale: Purpose of farmeroad.com is to pioneer the future of graphics on web and tell the story of a simple farmer in a magical world, using:
 1. 2D
       - [x] UI elements
 2. 3D
@@ -17,4 +17,4 @@
       - [ ] power all the above
 
 > [!WARNING]
-> The project is under-development, I don't take participants :octopus: :octopus: :octopus:
+> The project is under-development, I don't take participants 🚜
