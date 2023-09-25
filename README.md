@@ -17,4 +17,4 @@
       - [ ] power all the above
 
 > [!WARNING]
-> The project is under-development, I don't take participants #🚜
+> The project is under-development, I don't take participants 🚜
