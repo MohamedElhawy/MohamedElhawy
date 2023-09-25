@@ -6,7 +6,7 @@
 
 #### You can visit the website here [farmeroad.com](https://farmeroad.com/)
 
-## :whale: Purpose of farmeroad.com is to pioneer the future of graphics on web and tell the story of a simple farmer in a magical world, using:
+## 🌽 Purpose of farmeroad.com is to pioneer the future of graphics on web and tell the story of a simple farmer in a magical world, using 🌽
 1. 2D
       - [x] UI elements
 2. 3D
